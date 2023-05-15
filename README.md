@@ -36,7 +36,7 @@ The following libraries and tools are required to run the project:
 3. Fine-tune the GPT2 model for DGA detection by running the following command:
 
    ```bash
-   python train-gpt2-dga-detector -e `experiment1` -o `output_dir` -s `save_dir`
+   python train-gpt2-dga-detector.py -e `experiment1` -o `output_dir` -s `save_dir`
    ```
    Replace experiment1 with the name of your experiment.
    Replace output_dir with the desired output directory for training and evaluation.
@@ -44,7 +44,7 @@ The following libraries and tools are required to run the project:
 
 4. Test the model on the validation dataset using the following command:
    ```bash
-   python test-gpt2-dga-detector
+   python test-gpt2-dga-detector.py
    ```
 
 
