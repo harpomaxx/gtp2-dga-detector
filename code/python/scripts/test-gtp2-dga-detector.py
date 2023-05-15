@@ -10,6 +10,7 @@ from sklearn.metrics import confusion_matrix, accuracy_score, f1_score, precisio
 import numpy as np
 import pandas as pd
 import time
+import os
 
 # Set the default value for the model_checkpoint
 DEFAULT_MODEL_CHECKPOINT = "/home/harpo/CEPH/gpt2-dga-detector/"
