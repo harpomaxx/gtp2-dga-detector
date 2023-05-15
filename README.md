@@ -8,7 +8,7 @@ The dataset used for fine-tuning the `GPT2` model is `harpomaxx/dga-detection`. 
 
 ## AI-Dojo Project
 
-This project is part of the `AI-Dojo` project, an initiative that focuses on training and fine-tuning various machine learning models for different natural language processing (NLP) tasks. The aim is to explore state-of-the-art models and techniques to improve the performance of NLP models on specific tasks.
+This project is part of the `AI-Dojo` project.
 
 ## Requirements
 
