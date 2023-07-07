@@ -1,8 +1,7 @@
-optparse
 numpy
 pandas
 datasets
 transformers
 evaluate
 torch
-sklearn
+scikit-learn
